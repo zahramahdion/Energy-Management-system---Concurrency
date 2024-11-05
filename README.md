@@ -76,24 +76,13 @@ Through multithreading, the project showcases the practical application of concu
 ### Screenshots:
 Below are screenshots of key project results, such as successful unit test execution, system outputs, and concurrency simulation.
 
-1. **Unit Test Results**:
-   - A screenshot showing the successful execution of all unit tests, verifying that concurrency works as expected.
-
-   ![JUnit Test Results](<link_to_image_here>)
-
-2. **Battery Charging and Usage Simulation**:
+**Battery Charging and Usage Simulation**:
    - A screenshot showing concurrent charging and usage of the battery in real-time.
 
-   ![Battery Simulation](<link_to_image_here>)
-
-3. **Simulated Data Exchange**:
-   - A screenshot demonstrating the data exchange simulation.
-
-   ![Data Exchange Simulation](<link_to_image_here>)
+   ![Battery Simulation](https://github.com/Mdeskn/Energy-Management-system---Concurrency/blob/41658e530fe10c12eca383f218695ff980cd61f8/imgs/Screenshot%202024-11-05%20144830.jpg)
 
 ---
 
 This project was developed for the **Concurrency and Multithreading Assignment** under the supervision of **Dr. Prof. Galyna Tabunshchyk**.
 
 ## [Link to Video](<link_to_video_here>)
-## [More Screenshots...](<link_to_more_screenshots_here>)
